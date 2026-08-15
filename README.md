@@ -7,7 +7,7 @@ AI-guided conflict resolution for family disputes. Two parties, two private chan
 
 Resolutionator is an AI-guided conflict resolution app for family disputes — divorce, custody, parenting time, child support, and property division. Two parties who cannot (or should not) negotiate face-to-face each talk privately with a neutral AI "Guide," which carries proposals between them using an explicit, itemized consent system. Nothing crosses from one side to the other unless the person it came from approved that exact item with a checkbox.
 
-It is an educational self-help tool — **not mediation, not legal advice, not therapy** — designed and trained by a licensed marriage & family therapist and trained family law mediator. The output is a plain-English *Points of Agreement* summary the parties can take to attorney review and their state's free self-help court forms.
+It is an educational self-help tool, **not mediation, not legal advice, not therapy**, designed and trained by a licensed marriage & family therapist and trained family law mediator. The output is a plain-English *Points of Agreement* summary the parties can take to attorney review and their state's free self-help court forms.
 
 ---
 
